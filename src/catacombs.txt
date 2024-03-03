@@ -1,0 +1,20 @@
+North-west corner,This is the most north-west catacomb.,N E S,4,1,5,-1
+The Catacomb of forgetfullness,The cave was given its name long ago. No-one remembers why it was called the catacomb of forgetfullness.,E S W,-1,2,6,0
+The north well,This catacomb contains a very large well in the middle that reaches into the depths of the planet.,E S W,-1,3,7,1
+The light cave,This catacomb is the only one with some source of light. You must leave your lantern on just to be safe.,E S W,-1,4,8,2
+North east corner,This is the most north-east catacomb.,N S W,0,-1,9,3
+The dark catacomb,The catacomb is so dark that it almost reaches out and suppresses your lantern.,N S W,0,-1,10,10
+The tomb of Mazzag,In this catacomb is buried the remains of King Mazzag the Great.,N E S,1,7,11,-1
+The temple altar,This catacomb contains the temple altar. It reeks of dead Geonosians.,N E W,2,8,-1,6
+The temple chambers,This catacomb contains ancient artifacts and spiked tools used for the altar.,N S W,3,-1,13,7
+The last tomb,Only the Geonosians know why this catacomb was called the last tomb. Was it the last one to be created? Was it the last tomb used?,N E S,4,14,14,-1
+The nesting grounds,This catacomb used to be used as nesting grounds before the invasian on Geonosis.,N S W,5,-1,15,5
+The tombs of old,Geonosian priests were buried here in ancient times.,N E S,6,12,16,-1
+The catacomb of the ages,? Mysterious ?,E S W,-1,13,17,11
+The tomb of kings,This catacomb is used to bury Geonosian rulers.,N S W,8,-1,18,12
+The dark sea,This is the largest catacomb in the cave system and contains a dark pool of some foreign liquid.,N E S,9,9,19,-1
+The south-west corner,This is the most south-west catacomb.,N E S,10,16,19,-1
+The ruins of the old temple,This catacomb contains the ruined entrance to the old temple. Legends say the temple caved in on itself.,N E W,11,17,-1,15
+The south well,This catacomb contains a small well. As the centuries have moved on the hole has developed into a maze of deep dark tunnels.,N E W,12,18,-1,16
+The round room,This catacomb has been perfectly caved into a perfectly round dome-like shape.,N E W,13,19,-1,17
+The south-east corner,This is the most south-east catacomb.,N S W,14,-1,15,18

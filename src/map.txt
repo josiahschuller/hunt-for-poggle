@@ -1,0 +1,21 @@
+   _________________
+   |               |
+   A---B---C---D---E
+   |   |   |   |   |
+ |-F   G---H---I   J-|
+ | |   |       |   | |
+ |-K   L---M---N   O-|
+   |   |   |   |   |
+   P---Q---R---S---T
+   |_______________|
+
+ A: North-west corner         B: Catacomb of forgetfullness
+ C: North well                D: The light cave
+ E: North-east corner         F: The dark catacomb
+ G: Tomb of Mazzag            H: Temple altar
+ I: Temple chambers           J: The last tomb
+ K: Nesting grounds           L: Tombs of old
+ M: Catacomb of the ages      N: Tomb of kings
+ O: The dark sea              P: South-west corner
+ Q: Ruins of the old temple   R: South well
+ S: The round room            T: South-east corner
